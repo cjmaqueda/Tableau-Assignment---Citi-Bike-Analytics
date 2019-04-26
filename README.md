@@ -9,7 +9,10 @@ I examined bike trips in the month of March, for years 2016 – 2019, which allo
 2.	Female usage vastly outpaces male usage across every year
 3.	The vast majority of trips are conducted by subsribers vs. casual customers, so securing reoccurring subscriptions is key to continued business success
 4.	As expected, peak hours change from weekday traffic to weekend traffic
+
   a.	8:00am and 6:00pm are the most heavy demand hours during the week
+  
   b.	Noon comprises peak demand on the weekend
+  
 5.	Grove St Path is by far the most popular start and end point
 6.	Millennials make up the majority of riders, with the late 80’s contributing the lion-share of customers
