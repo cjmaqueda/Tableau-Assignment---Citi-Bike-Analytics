@@ -16,3 +16,6 @@ I examined bike trips in the month of March, for years 2016 – 2019, which allo
   
 5.	Grove St Path is by far the most popular start and end point
 6.	Millennials make up the majority of riders, with the late 80’s contributing the lion-share of customers
+
+### Link: 
+https://public.tableau.com/profile/carlos.maqueda#!/vizhome/JcitbikeTripData-Maqueda_Carlos_V2/GenderBirthYear?publish=yes
